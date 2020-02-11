@@ -1,0 +1,30 @@
+.body__about{
+	width: 100vw;
+	max-width: 100vw;
+	height: 100vh;
+	max-height: 100vh;
+}
+
+.about__container{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	display: flex;
+}
+
+.body__about__photo{
+	width: 50%;
+}
+
+.body__about__discript{
+	width: 50%;
+}
+
+.body__about__discript p, h2{
+	width: 80%;
+	margin: 50px auto;
+}
+
+.body__about__discript h2{
+	font-size: 40px;
+}
